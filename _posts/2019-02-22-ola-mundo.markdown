@@ -5,4 +5,4 @@ date:   2019-02-22 19:32:08 +0000
 categories: inaugural 
 ---
 Olá, mundo,
-Esse é o meu primeiro post feito em markdown e utiizando a dupla github pages + jekylls. Engatinhando ainda!
+Esse é o meu primeiro post feito em markdown e utiizando a dupla github pages + jekyll. Engatinhando ainda!
